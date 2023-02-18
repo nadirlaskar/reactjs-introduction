@@ -1,2 +1,3 @@
-# reactjs-introduction
-A repository for introduction to reactjs
+# Introduction to ReactJs
+
+This repository provides basic introduction to reactjs
